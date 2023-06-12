@@ -1,0 +1,10 @@
+* damn-fast-priority-queue
+
+A heap-based priority queue whose first and foremost priority is speed.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/phoe/damn-fast-priority-queue.git   |
+| commit  | {"messa  |
+| systems | damn-fast-priority-queue |
+|---------+-------------------------------------------|
+
