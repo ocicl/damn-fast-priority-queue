@@ -4,6 +4,6 @@ A heap-based priority queue whose first and foremost priority is speed.
 
 |---------+----------------------------------------------------------|
 | source  | git:https://github.com/phoe/damn-fast-priority-queue.git |
-| commit  | 0f0bcf8                                                  |
+| commit  | 890d316                                                  |
 | systems | damn-fast-priority-queue                                 |
 |---------+----------------------------------------------------------|
